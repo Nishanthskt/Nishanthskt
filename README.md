@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently doing my internship in **TECCITY LABS**
 
-- 🌱 I’m currently learning **Html,css,javascript**
+- 🌱 I’m currently learning **Html,css,javascript,React,PHP**
 
 - 📫 How to reach me **thamilzhkali@gmail.com**
 
